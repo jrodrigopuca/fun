@@ -3,8 +3,6 @@ class Perro
 		@name= nombre
 	end
 
-
-	
 	def ladrar()
 		puts "guau"
 	end
